@@ -100,12 +100,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-Having issues? Open a GitHub issue or contact: [your-email]
+Having issues? Open a GitHub issue or contact: [pabasaralakmal275@gmail.com]
 
 ---
 
 
 **⭐ Don't forget to star this repo if you find it useful!**
+
 
 
 
