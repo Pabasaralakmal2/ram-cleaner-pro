@@ -22,8 +22,7 @@ A powerful, stylish command-line RAM cleaner with real-time memory monitoring an
 
 ╔══════════════════════ RAM MONITOR ═════════════════════╗
 ║ ║
-║ 
-Total RAM: 16 GB ║
+║ Total RAM: 16 GB ║
 ║ Used RAM : 10 GB [62%] ║
 ║ Free RAM : 6 GB ║
 ║ ║
@@ -113,3 +112,4 @@ Having issues? Open a GitHub issue or contact: [your-email]
 
 
 **⭐ Don't forget to star this repo if you find it useful!**
+
